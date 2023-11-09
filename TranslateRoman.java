@@ -1,3 +1,5 @@
+package kataChallenge;
+
 class TranslateRoman {
     public static int romanToInt(String s) {
         int res = 0;
